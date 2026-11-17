@@ -1,0 +1,26 @@
+
+# Certificates and private credentials
+certs/
+
+# Local configuration
+device.yaml
+
+# Python virtual environment
+venv/
+.venv/
+__pycache__/
+*.py[cod]
+
+# Local test and ESP32 scripts
+connection_test.py
+esp32_monitor.py
+
+# Photos
+photos/
+
+# Logs
+logs/
+*.log
+
+# Keep data folder and CSV sensor readings
+# Do not add data/ to this ignore file
